@@ -1,4 +1,3 @@
-
 # ShopLite: Environment-Aware Builds & Secure Secrets Management
 
 ## 📌 Project Overview
